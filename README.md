@@ -29,10 +29,10 @@ Também amo roxo, chocolate e estou sempre disponivel para novos projetos em col
 
  ### Minhas redes
  
- <a href="www.linkedin.com/in/thais-quinto">
+ <a href="https://www.linkedin.com/in/thais-quinto">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href="https://lucyanovidio.vercel.app">
+ <a href="https://https://myaccount.google.com/personal-info?gar=WzEyMF0&hl=en&utm_source=OGB&utm_medium=act">
    <img src="https://img.shields.io/badge/gmail-B22222?style=for-the-badge&logo=About.gmail&logoColor=white" />
  </a>
  
