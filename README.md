@@ -1,12 +1,11 @@
 <div align="center">
 <img src="./Imagens/Bannerr.png" alt="Banner">
 <div align="left">
-Sou formada no curso técnico de analise e desenvolvimento de sistema da ETEC, atualmente estou em busca de um estagio
-front end  ou back end, para mostrar minhas habilidades na programação  
+Sou formada no curso técnico de Análise e Desenvolvimento de Sistemas pela ETEC e, atualmente, estou em busca de um estágio em Front-End ou Back-End para demonstrar minhas habilidades em programação.
 <br> <br>
-Atualmente estou aguardando as aulas do meu curso, ciencia e tecnologia, na UFABC começar.  
+Atualmente eu estou aguardando o início das aulas do meu curso de Ciência e Tecnologia na UFABC.
 <br> <br>
-Também amo roxo, chocolate e estou sempre disponivel para novos projetos em colaboração
+Também amo a cor roxa e chocolate, e estou sempre disponível para colaborar em novos projetos.
  </div>
    </div>
 <div align="center">
@@ -27,13 +26,10 @@ Também amo roxo, chocolate e estou sempre disponivel para novos projetos em col
 
 
 
- ### Minhas redes
+ ### Contatos:
  
  <a href="https://www.linkedin.com/in/thais-quinto">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="https://https://myaccount.google.com/personal-info?gar=WzEyMF0&hl=en&utm_source=OGB&utm_medium=act">
-   <img src="https://img.shields.io/badge/gmail-B22222?style=for-the-badge&logo=About.gmail&logoColor=white" />
  </a>
  
 </div>
