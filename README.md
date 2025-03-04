@@ -1,6 +1,7 @@
 <div align="center">
 <img src="./Imagens/Bannerr.png" alt="Banner">
 <div align="left">
+ <br>
 Sou formada no curso técnico de Análise e Desenvolvimento de Sistemas pela ETEC e, atualmente, estou em busca de um estágio em Front-End ou Back-End para demonstrar minhas habilidades em programação.
 <br> <br>
 Atualmente eu estou aguardando o início das aulas do meu curso de Ciência e Tecnologia na UFABC.
