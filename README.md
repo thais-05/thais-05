@@ -2,20 +2,17 @@
 <img src="./Imagens/Bannerr.png" alt="Banner">
 <div align="left">
  <br>
-Sou formada no curso técnico de Análise e Desenvolvimento de Sistemas pela ETEC e, atualmente, estou em busca de um estágio em Front-End ou Back-End para demonstrar minhas habilidades em programação.
+Sou formada no curso técnico de Análise e Desenvolvimento de Sistemas pela ETEC e, atualmente, estou em busca de um estágio para demonstrar minhas habilidades adquiridas.
 <br> <br>
-Atualmente eu estou aguardando o início das aulas do meu curso de Ciência e Tecnologia na UFABC.
+Atualmente eu estou cursando sistemas de informação na FIAP, estou no 2° periodo.
 <br> <br>
-Também amo a cor roxa e chocolate, e estou sempre disponível para colaborar em novos projetos.
+Também gosto de ler, jogar e estou sempre disponível para colaborar em novos projetos.
  </div>
    </div>
 <div align="center">
+<br>
 
- <div>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=thais-05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=9B59B6&icon_color=9B59B6&text_color=c9d1d9&bg_color=0d1117"/>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thais-05&layout=compact&langs_count=7&hide_border=true&title_color=9B59B6&color=66cc00&text_color=fff&bg_color=0d1117"/>
- </div>
- 
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
