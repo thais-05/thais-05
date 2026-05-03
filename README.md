@@ -26,21 +26,11 @@
 <br>
 <h1></h1>
 <div align="left">
-  <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"/>  Parte Técnica</h3>
+  <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"/>Linguagens e tecnologia</h3>
 </div>
 
 <br>
 
-
-  <div align="center">
-  <a href="https://github.com/thais-05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thais-05&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=4FBCFF&text_color=DCDEF7&icon_color=DCDEF7&border_color=4FBCFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thais-05&layout=compact&langs_count=7&bg_color=1F1D36&title_color=4FBCFF&text_color=DCDEF7&border_color=4FBCFF"/>
-  </a>
-</div>
-<br>
-
-  
 </div>
 
 <div align="center">
