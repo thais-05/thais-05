@@ -31,8 +31,6 @@
 
 <br>
 
-</div>
-
 <div align="center">
 <br>
    <kbd width="180em">
